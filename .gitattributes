@@ -1,0 +1,149 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+CHANGELOG.md export-ignore
+
+Directive	Local Value	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0
+Directive	Local Value
+Directive	Local Value
+Directive	Local Value
+Directive	Local Value
+Directive	Local Value
+Directive	Local Value
+Directive	Local Value
+Directive	Local Valu
+Directive	Local Valu
+Directive	Local Valu
+Directive	Local Valu
+Directive	Local Value	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value	e	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value	e	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value	e	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value	e	Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value		Master Value
+bcmath.scale	0	0
+cgi-fcgi
+
+php-fpm	active
+Directive	Local Value	Master Value
+cgi.discard_path	0	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value	0
+cgi.fix_pathinfo	1	1
+cgi.force_redirect	1	1
+cgi.nph	0	0
+cgi.redirect_status_env	no value

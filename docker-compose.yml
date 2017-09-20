@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  api:
+      image: nginx:latest
+      ports:
+          - "80:80"
+      volumes:
+          - .:/var/www/
+          - ./config/nginx/local.conf:/etc/nginx/conf.d/local.conf
+      links:
+          - php
+  php:
+      user: developer
+      build: .
+      volumes:
+          - .:/var/www/
